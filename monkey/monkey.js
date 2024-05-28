@@ -1,2 +1,2 @@
 const monkey = 'is me'
-const monkeyPercent = 50
+const monkeyPercent = 100
