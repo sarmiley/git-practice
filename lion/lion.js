@@ -1,2 +1,2 @@
 const lion = 'lion'
-const lionPercent = 10
+const lionPercent = 100
