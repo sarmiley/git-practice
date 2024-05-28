@@ -1,2 +1,2 @@
 const dog = 'nice'
-const dogPercent = 10
+const dogPercent = 30
