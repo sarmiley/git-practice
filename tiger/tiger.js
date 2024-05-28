@@ -1,2 +1,2 @@
 const tiger = 'tiger'
-const tigerPercent = 10
+const tigerPercent = 30
